@@ -5,8 +5,11 @@
  
 ### ・実行環境
 OS ... Ubuntu 18.04 LTS
+
 ROS_version ... melodic
+
 使用言語　... Python
+
 カメラ ... UVC規格に対応したもの
 
 ### ・インストールが必要なパッケージ
