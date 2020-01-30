@@ -22,7 +22,7 @@ $ sudo apt install ros-melodic-usb-cam
 $ roslaunch robosys robosys.launch
 ~~~~
 
-### ・参考文献
+### ・参考書
 「ROSではじめるロボットプログラミング」 著者：小倉 崇　出版社：工学社
 
 ### ・実行動画
