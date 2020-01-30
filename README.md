@@ -1,7 +1,7 @@
 # Robosys_homework2
 ## 取得した色情報からROSのturtleを操作
    取得したカメラ映像からOpenCVを用いて色情報を取得し、その色情報に応じた動きをROSのturtleにさせる。
-   turtlesimのturtlesim_nodeにTwist型のメッセージをパブリッシュすることで操作可能。
+   turtlesimのturtlesim_nodeにgeometry_msgs/Twist型のメッセージをパブリッシュすることで操作可能。
  
 ### ・実行環境
 OS ... Ubuntu 18.04 LTS
