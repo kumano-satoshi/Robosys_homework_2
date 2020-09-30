@@ -11,7 +11,7 @@
 ### ・実行環境
 OS ... Ubuntu 18.04 LTS
 
-ROS_version ... melodic
+ROS_distribution ... melodic
 
 使用言語 ... Python
 
